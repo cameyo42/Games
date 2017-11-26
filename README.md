@@ -1,0 +1,20 @@
+# Games
+- checkers
+- chess
+- chinese checkers
+- connect four
+- dot and boxes
+- flower sweeper
+- go
+- gomoku
+- hex
+- memory
+- morris
+- nim
+- peg
+- puzzle 8
+- puzzle 15
+- rock paper scissors
+- snake
+- tris
+- tron

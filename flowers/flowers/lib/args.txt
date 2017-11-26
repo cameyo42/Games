@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1512m
+flowers
+flowers.jar,core.jar
